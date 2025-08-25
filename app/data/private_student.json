@@ -1,0 +1,50 @@
+[
+    {
+        "student_id": "student_001",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@university.edu",
+        "grades": {
+            "Math101": "A",
+            "CS102": "B+",
+            "History201": "A-"
+        },
+        "schedule": {
+            "Monday": ["Math101 09:00-10:30", "CS102 11:00-12:30"],
+            "Tuesday": ["History201 10:00-11:30", "CS102 Lab 14:00-16:00"]
+        },
+        "cgpa": 3.7,
+        "financial_due": 500
+    },
+    {
+        "student_id": "student_002",
+        "name": "Bob Smith",
+        "email": "bob.smith@university.edu",
+        "grades": {
+            "Math101": "B",
+            "CS102": "A",
+            "History201": "B+"
+        },
+        "schedule": {
+            "Monday": ["Math101 09:00-10:30", "CS102 11:00-12:30"],
+            "Wednesday": ["History201 10:00-11:30", "CS102 Lab 14:00-16:00"]
+        },
+        "cgpa": 3.5,
+        "financial_due": 0
+    },
+    {
+        "student_id": "student_003",
+        "name": "Charlie Lee",
+        "email": "charlie.lee@university.edu",
+        "grades": {
+            "Math101": "A-",
+            "CS102": "B",
+            "History201": "A"
+        },
+        "schedule": {
+            "Tuesday": ["Math101 09:00-10:30", "CS102 11:00-12:30"],
+            "Thursday": ["History201 10:00-11:30", "CS102 Lab 14:00-16:00"]
+        },
+        "cgpa": 3.6,
+        "financial_due": 300
+    }
+]
